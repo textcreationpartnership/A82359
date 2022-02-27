@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answer to all the material objections against the present East-India-Company</title>
+            <author>East India Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82359</idno>
+            <idno type="STC">Wing E100aA</idno>
+            <idno type="STC">ESTC R224455</idno>
+            <idno type="EEBO-CITATION">99897414</idno>
+            <idno type="PROQUEST">99897414</idno>
+            <idno type="VID">132828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2496:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answer to all the material objections against the present East-India-Company</title>
+                  <author>East India Company.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:132828:1"/>
+            <pb n="1" facs="tcp:132828:1"/>
+            <head>Anſwer to all the material Objections against the Preſent <hi>Eaſt-India-Company.</hi>
+            </head>
+            <p>THE common Cauſes aſſigned for framing a New <hi>Eaſt-India</hi> Company by Act of Parliament, or making a change of the Preſent <hi>Eaſt-India</hi> Company, are ſuch as theſe following, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. Objection, <hi>Becauſe the preſent Company have procured illegal powers from the late and former Kings of</hi> England, <hi>and have executed thoſe powers ſeverely to the deſtruction of Interloping, the great dammage of many honeſt Men that were Interlopers, and have cauſed five men to be executed by an illegal Commiſſion of Martial Law in the Iſland St.</hi> Helena.</item>
+               <item>II. Object. <hi>Becauſe the preſent Company is grown up unto a kind of Monopoly by ſome few Men, and one eſpecially having purchaſed ſuch an exorbitant ſhare thereof.</hi>
+               </item>
+               <item>III. Object. <hi>That the preſent Company have not Stock enough to carry on the Trade, and that a greater Stock ought and may be employed in that Trade, and more and greater numbers of Men parti<g ref="char:EOLhyphen"/>cipate thereof.</hi>
+               </item>
+               <item>IV. Object. <hi>That one Man has aſpired to ſuch a power and influence upon the preſent</hi> Eaſt-India <hi>Committees Councils, that nothing can be done without his approbation, nor any perſon be brought into the Committee by Election of the Adventurers without his conſent, by Reaſon of the great influence he has upon the Voices or Suffrage of the Electors, and the great number of his own and his Relations Votes.</hi>
+               </item>
+            </list>
+            <div type="part">
+               <p>To the firſt Objection, The Company Anſwer,</p>
+               <p n="1">1. They have neither procured nor executed any Powers or Authority in <hi>India,</hi> but what is abſolutely neceſſary for the preſervation of the Engliſh Dominion and Trade there; nor other than ſuch or leſs powers than the Dutch and every <hi>European</hi> Nation in <hi>India</hi> do enjoy and exerciſe, to an infinite greater degree of ſeverity than ever the Engliſh Compa<g ref="char:EOLhyphen"/>ny did, and that if ever there be a new Company eſtabliſht by Act of Parliament, all thoſe Authorities which the Company have by any Charter muſt be allowed to the New Company, or elſe the Engliſh Dominion in <hi>India</hi> will be inevitably and ſuddenly loſt, and the loſs of the Trade follow that, as certainly as the ſhadow does the body.</p>
+               <p n="2">2. The Company ſay it becomes not them to diſpute ſo high a point of the Prero<g ref="char:EOLhyphen"/>gative, or the Authority of the Kings of <hi>England</hi> in granting Charters, or making Laws in Forreign Plantations, <hi>extra England, Wales</hi> and <hi>Berwick.</hi> But this they know, very ma<g ref="char:EOLhyphen"/>ny thouſands of men have dyed upon ſeveral occaſions by the Sword and common Execution<g ref="char:EOLhyphen"/>ers in the ſeveral Foreign Plantations. But they never heard of any Law in any Foreign Plantation, <hi>extra England, Wales</hi> and <hi>Berwick</hi> aforeſaid, nor any Rebellion ſuppreſt but by Charter Law, or ſuch Laws as were made by men Authoriz'd thereunto by the Kings Char<g ref="char:EOLhyphen"/>ter, and not by the Common or Statute Law of <hi>England.</hi>
+               </p>
+               <p n="3">3. The ſeverity charged upon the Company is a notorious falſity, the Company being rather chargeable with hazarding the loſs of <hi>India</hi> by too much lenity, having procured from his late Majeſty K. <hi>Charles</hi> an Indemnity to all the Inhabitants of <hi>Bombay,</hi> and the Inha<g ref="char:EOLhyphen"/>bitants of St. <hi>Helena</hi> after three ſeveral Rebellions. Which exceſs of Lenity in all probability occaſioned the 4th. and laſt moſt dangerous Rebellion at St. <hi>Helena,</hi> at the ſame time that <hi>Bombay</hi> was in Rebellion; which if it had ſucceeded at St. <hi>Helena</hi> as it was very likely to do, had any leſs wiſe or worſe Souldier been Governour than <hi>Sir John Blackmore,</hi> it had in all pro<g ref="char:EOLhyphen"/>bability carryed with it by contagion the loſs of all the Engliſh Dominion in <hi>India,</hi> and the ſale of thoſe Places by the Rebels to the beſt Foreign Chapman.</p>
+               <p n="4">4. It is well known where the Engliſh have executed one man in <hi>India,</hi> theſe laſt 20 years, the wiſer Dutch Company have executed many hundreds. There being hardly a conſiderable Factory of theirs in <hi>India,</hi> where there is not ſtanding one or too common Gibbets for the Executing of Malefactors, beſides ſeveral Iſlands unto which they baniſh for Life, and to hard labour many refractory inſolent mutinous people of their own Nation as well as others; which they find to be of abſolute neceſſity to ſupport their Empire upon which their Trade depends, well knowing that generally ſpeaking men that Travel ſo far from home are not of the mildeſt tempers, nor of the moſt regular lives, nor indeed governable at all without ſevere Laws and ſpeedy Execution.</p>
+            </div>
+            <div type="part">
+               <p>To the ſecond Objection, viz. <hi>Becauſe the preſent Company is grown up unto a kind of Monopo<g ref="char:EOLhyphen"/>ly by ſome few men, and one eſpecially having purchaſed ſuch an exorbitant ſhare thereof.</hi>
+               </p>
+               <p n="1">1. The Company ſay, Firſt that the foundation of this Company, is as large as the foundation of the Dutch Company, that is as large as the bounds of the whole Earth. They (that is the Engliſh and Dutch Company reſpectively) refuſe admittance to no Chri<g ref="char:EOLhyphen"/>ſtians of any Nation to buy Stock, neither to Turks, Jews nor Infidels, the more the better. All that buy Stock of what ever Nation they are, are therein ſubſervient to the publick good of that Nation to which ſuch <hi>Eaſt-India</hi> ſtock belongs.</p>
+               <p n="2">2. It is well known and will not be denyed, That the Jews have at all times the greateſt
+<pb n="2" facs="tcp:132828:2"/>ſhare of actions in the Dutch <hi>Eaſt-India</hi> Company, and that one Jew, <hi>Swaſſo</hi> by name, has had at one time more ſtock in that Company, than ever any Engliſh man had or hath in this.</p>
+               <p n="3">3. If any Engliſh man had the courage to buy and increaſe his ſtock to a greater proporti<g ref="char:EOLhyphen"/>on than ordinary, in the times when wiſer men ran from the houſe, fearing it would immedi<g ref="char:EOLhyphen"/>ately fall on their heads, by the practice of Interlopers, That man certainly deſerves rather the commendation that the wiſe Romans gave to <hi>Terentius Varro</hi> at his return to the City, after the loſs of the Battle of <hi>Cannae, Quod non deſperaſſet de Republica,</hi> than to be blamed for his ſtanding up at ſuch a dangerous time to preſerve the Intereſt of his Countrey, which was juſt falling into the hands of Foreigners, if great application had not been uſed to prevent it.</p>
+               <p n="4">4. To aſſiſt vigorouſly to defend and improve the Engliſh Dominion and Trade in <hi>India,</hi> requires great and conſtant thoughtfulneſs, and an extraordinary meaſure of experience; and the perſon that does that to purpoſe, muſt have ſome not inconſiderable reputation in the World: And it is not to be imagined that any ſuch perſon will be at the requiſite pains in ſuch an affair, except he has a great ſhare therein, or be a man that will carve for himſelf to the prejudice of the publick; And if he be ſo, he ſhall not hold it long, For the adventurers are wiſer than to truſt ſuch an one much or often. It is well known that neither the Dutch or Engliſh <hi>Eaſt-India</hi> Company were ever without ſome one man, that did principally carry on and force themſelves to underſtand the general Affairs of the Company. That man in the Engliſh <hi>Eaſt-India</hi> Company was formerly the late worthy <hi>Sir William Thompſon</hi> deceaſed, and before him Mr. <hi>Cockain,</hi> who was Governour for 15 years together, and Mr. <hi>Maſſingbird</hi> that was Treaſurer, and before them Sir <hi>Morice Abbot,</hi> who was Governour or Deputy 22 years toge<g ref="char:EOLhyphen"/>ther, and in Q. <hi>Eliz.</hi> and K. <hi>James</hi> the Firſts time, Sir <hi>Thomas Smith</hi> was often Governour and the Principal Manager; And that man now living in the chief conduct and managery of the Dutch <hi>Eaſt-India</hi> Company, is that ancient moſt experienced and prudent Mr. <hi>Peter Van Dam.</hi>
+               </p>
+               <p n="5">5. If we may credit that contemned but wiſe Author <hi>Machiavel,</hi> he tells us, The ſtate of <hi>Florence</hi> when it was a Commonwealth never proſpered, but when ſome one Citizen arrived at Reputation enough to moderate the Councils of the Commonwealth.</p>
+               <p n="6">6. We dare appeal to the Honourable <hi>Sir William Temple,</hi> who we think has made the beſt inſpection into the management of the Affairs of that flouriſhing Proteſtant Commonwealth of the ſeven Provinces, whether even in their ſtate Affairs, that Commonwealth was not al<g ref="char:EOLhyphen"/>ways moſt proſperous, when ſome one man, as lately the incomparable Monſieur <hi>Fagel</hi> had the greateſt influence upon their Councils; Further, we dare adventure to ſay that never any publick ſociety did well when it was otherwiſe.</p>
+               <p>But notwithſtanding the Anſwers aforeſaid to this Objection rather than the Nation ſhould ſuffer by doing ſuch a miſchief to <hi>England,</hi> which can never be cured by Re<g ref="char:EOLhyphen"/>pentance, if the preſent <hi>Eaſt-India</hi> Company be diſſolved, broken or impolitickly inocculated or grafted upon, That Gentleman, who hath the greateſt ſhare of the ſtock, being wearied with the fatigue of it, and want of health occaſioned thereby, is content to be totally excluded from any concern in the management of the <hi>Eaſt-India</hi> Affairs, or giving in any of his Votes at the Annual Election of the Governour, Deputy and Committees.</p>
+            </div>
+            <div type="part">
+               <p>To the Third Objection, <hi>viz. That the Preſent Company have not Stock enough to carry on the Trade, and that a greater Stock ought and may be employed in that Trade, and more and greater Numbers of Men participate thereof.</hi> The Company ſay, and are ready to prove,</p>
+               <p>Firſt, That this is a moſt Notorious Falſity, and peradventure ſuch an One, as never any <hi>Engliſh</hi> Men before had the Confidence to impoſe upon ſo Great and Venerable an Aſſembly as the Honourable Houſe of Commons: If this had any Truth in it, how comes it to paſs, that the <hi>Eaſt-India Company</hi> have now more <hi>Eaſt-India</hi> Goods at home than the <hi>Dutch</hi> (except Spices) and all other Nations put together; and had in <hi>India,</hi> upon the coming away of their laſt Ships, which the <hi>Company</hi> do affirm for Truth, a very great Treaſure in Gold and Silver, undiſpoſed of, according to their lateſt Advice and Information; beſides great quantities of Goods and Stores in their Forts and Factories, which is well known to the <hi>Dutch Eaſt-India Company.</hi> Beſides, the <hi>Company</hi> can't compute their dead Stock in <hi>India, viz.</hi> Forts, Caſtles, Cities, Towns and Territories, <hi>Phirmaunds, Husball Hookum</hi> and Priviledges, to have coſt them leſs than a Million of Pounds <hi>ſterling.</hi> All which are worth, and would be a good penyworth to the <hi>Dutch Company</hi> at above double that Sum.</p>
+               <p>Secondly, But the Gentlemen who fram'd this Objection, ſay, <hi>The Company are greatly in Debt in</hi> India; and if they did ſay the Company are greatly in Debt at <hi>Jeruſalem,</hi> the Company can give them no other Anſwer to ſuch confident groundleſs Aſſertions, but to aſſure the Parlia<g ref="char:EOLhyphen"/>ment upon the Word of Honeſt Men, Honour, Conſcience, and all that amongſt good Men com<g ref="char:EOLhyphen"/>pels Belief, as they do hereby, that there is no truth in this Aſſertion, more than that where there is great Dealings between private Men or Nations, there will be alwayes ſome Debts on both ſides, but more, are due to the Company than from them. The Company do believe, and are modeſt in ſaying no more that this Company is as rich in quick Stock in <hi>India,</hi> all Debts deducted, as the <hi>Dutch Eaſt-India Company;</hi> although in Empire and Dominion, the <hi>Dutch</hi> have much the ad<g ref="char:EOLhyphen"/>vantage of the <hi>Engliſh</hi> in <hi>India,</hi> Becauſe the <hi>Engliſh</hi> were not formerly empowered by the Kings <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:132828:2"/>Legiſlative Authority, to make ſuch progreſs in that moſt neceſſary work of acquiring Sovereignty or Dominion in ſeveral parts of <hi>India,</hi> for the benefit of this Kingdom. And this Exceſs of Quick-Stock on the <hi>Engliſh</hi> part, was ſo well known to Monſieur <hi>Van Beuninge</hi> when he was Ambaſſa<g ref="char:EOLhyphen"/>dor here, that he did in Diſcourſe with ſome of the Committee, frequently talk what great things the <hi>Engliſh</hi> Wealth, and the <hi>Dutch</hi> Power conjoint might do in <hi>India:</hi> And this was in time im<g ref="char:EOLhyphen"/>mediately before the ſurprize of <hi>Bantam.</hi> But the Gentlemen who frame this Objection, which they neither know nor underſtand themſelves, would prove it by an Inference: They ſay, if the Company be not in Debt, nor want Stock to carry on the Trade, Why did they permit private Ships to go for <hi>India,</hi> while they exclaim ſo exceedingly againſt Interlopers? The Anſwer to which is very eaſie; Firſt, Such Ships went with the Companies Allowance, and under ſuch Li<g ref="char:EOLhyphen"/>mitations and Stipulations as were agreed by Charter-party with the Company, under the Maſters and two ſubſtantial Merchants Hands and Seals, and were to contribute an adjuſted ſatisfaction towards the Companies Garriſons and other General Charges. Secondly, The Company gave thoſe permiſſions only in time of War againſt the <hi>Mogul;</hi> but do it not now, nor will hereafter, except there ſhould be the like occaſion of having more Ships to carry out Ammunition, Stores, Proviſions and Souldiers, than can be loaden home with proper Goods for <hi>Europe</hi> during the War, where ſuch ſmall Ships as they gave Permiſſion to, might notwithſtanding find ſome ſmall Em<g ref="char:EOLhyphen"/>ployments in Trade in the Country <hi>Flagrante Bello,</hi> while our more Warlike Ships were only to attend the Enemy in ſeveral Places, and to defend that unvaluable Iſland of <hi>Bombay,</hi> as it is lately improved, Fortified and made the Seat of the <hi>Engliſh</hi> commerce on that ſide, as <hi>Batavia</hi> is of the <hi>Dutch</hi> on the other ſide of <hi>India.</hi> This Objection about the Free Ships, was made in the Late King <hi>James</hi>'s time by the Interlopers and others their Abettors, and anſwered in Writing; The Queries and Anſwers are extant which ſilenc'd that Objection, but are not ſo fit for publick View.</p>
+            </div>
+            <div type="part">
+               <p>To the Fourth Objection, <hi>viz. That One Man hath aſpired to ſuch a Power and Influence upon the Preſent</hi> Eaſt-India <hi>Committees Councils that nothing can be done without his approbation, nor any Perſon be brought into the Committee by Election of the Adventurers without his Conſent, by reaſon of the great Influence he has upon the Voices or Suffrage of the Electors, and the great number of his own and his Relations Votes.</hi> The Company ſay, This Objection is ſufficiently anſwered before, but if any Man through unacquaintedneſs with <hi>Eaſt-India</hi> Affairs, or indeed in any other Affairs of the World, ſhall yet think this a fault in the Companies Conſtitution, which ought to be mend<g ref="char:EOLhyphen"/>ed, (which is a meer miſtake in Politicks) ſuch Gentlemen may ſatisfie themſelves, that Nature will cure the Company of this Diſeaſe without the application of Art, in a little time, that Gentle<g ref="char:EOLhyphen"/>man being near Sixty Years of Age and ſickly, and it may be concluded, his Son will be too much at eaſe in his Fortune to be at the Drudgery of making himſelf underſtand the <hi>Eaſt-India</hi> Affairs to ſuch a degree, as to over-influence the Councils of the Committees, which never any Gover<g ref="char:EOLhyphen"/>nors Son did take the pains to do, ſince the firſt Foundation of the Company in Q. <hi>Elizabeths</hi> time. Yet there is another cure of this Diſtemper, which is what that Gentleman would think no hard<g ref="char:EOLhyphen"/>ſhip, finding the greateſt Diligence, Fidelity, and even good Succeſs and Victory it ſelf will not generally pleaſe, <hi>viz.</hi> of being excluded from any further concern in the Management of the <hi>Eaſt-India-Companies</hi> Affairs; It being his greateſt Conſolation, that God has been pleaſed to ſpare his Life hitherto, to ſee the <hi>Engliſh</hi> Intereſt in <hi>India</hi> in ſuch a proſperous way, and to leave it in that Condition.</p>
+               <p>The Company having in this and a former Paper anſwer'd every thing they think to be ſub<g ref="char:EOLhyphen"/>ſtantial, do not conceive themſelves obliged to give any further anſwer to the ſeveral Scurrilous Papers which daily come out, with ſcandalous and untrue Reflections upon the Companies Ma<g ref="char:EOLhyphen"/>nagement from perſons unknown to the Company, whether they be Interlopers or the King of <hi>Syams</hi> Factors or Foreigners, which write in the ſtile of Interlopers; who are really angry not at the Companies miſ-management, but at the Excellent Conduct of their Affairs, which has enerva<g ref="char:EOLhyphen"/>ted and defeated all the Deſigns of Foreigners, and ſuch Natives, which in Combination with Foreigners for theſe laſt Seven years, have endeavour'd to deſtroy the preſent thriving <hi>Eaſt-India-Company.</hi> Such Writers are not anſwerable for any thing they ſay, true or falſe: Or elſe they would not have had the confidence to out-face the World by their bold affirmations, that there is no peace yet between the great <hi>Mogul</hi> and the <hi>Engliſh</hi> in <hi>India,</hi> and that the Narrative of the Rebellion at St. <hi>Helena,</hi> and the proceedings of the Court Martial, received from the Governor and Council under their own hands, are Forgeries, or Fictions made and contrived here. Are ſuch mens furious Diſcourſes or ſelf-ended Notions to be relied upon in ſuch important Publick Affairs? But the Company are a Society which ſtand upon their Honour, and dare not, nor will <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lledge any thing, but what they are ready to make out to Their Majeſties, the Lords or Com<g ref="char:EOLhyphen"/>mons of <hi>England</hi> at their Peril.</p>
+               <p>The Company hope it will not be forgot, That the <hi>French</hi> Court hath ſpent of the Kings Money, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſides the <hi>French</hi> Companies, above a Million of Pounds Sterling to attain ſome Empire and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ade in <hi>India,</hi> and yet ſo difficult a thing that is, as the <hi>French</hi> Policy could never attain in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ove Twenty years purſuit, any conſiderable Trade, or any one ſtrong fortify'd ſettlement of <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ir own.</p>
+               <p>The Company hope likewiſe, That the Honour obtain'd to this Kingdom, in compelling the Great <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gul in open War by force of Arms, to ſuch advantagious Articles in favour of the <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, as are extant in Print, which is the wonder of Foreigners, and will be admired and ap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ded in the next Age, ſhall not be treated with contempt at home in this.</p>
+               <pb facs="tcp:132828:3" rendition="simple:additions"/>
+               <pb facs="tcp:132828:3" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
